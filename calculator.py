@@ -1,6 +1,5 @@
 import math
 
-from .extra import install_module
 from .extensions import NewelleExtension
 
 class CalculatorExtension(NewelleExtension):
