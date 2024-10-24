@@ -1,6 +1,0 @@
-{
-	"name": "calculator",
-	"prompt": "\n\nSystem: You can interact with the calculator by using this syntax in a new message to calculate something:'```calculator\n what needs to be counted```' In the next message the calculator will solve your equation and show the answer. try to use it to the maximum when needed, don't forget to use it. Here is the syntax of this calculator:\nThis calculator takes a mathematical expression as a string and returns its result.\nSupported operations:\n- Addition: +\n- Subtraction: -\n- Multiplication: *\n- Division: /\n- Exponentiation: **\n- Modulus of a number: abs(x)\n- Factorial: factorial(x) (supported in Python 3.8+)\n- Sine: sin(x)\n- Cosine: cos(x)\n- Tangent: tan(x)\n- Square root: sqrt(x)\n- The natural logarithm: log(x)\nConstants:\n- The number π: pi\n- Number e: e",
-	"api":"main.py",
-	"about":"nThis calculator takes a mathematical expression as a string and returns its result.\nSupported operations:\n- Addition: +\n- Subtraction: -\n- Multiplication: *\n- Division: /\n- Exponentiation: **\n- Modulus of a number: abs(x)\n- Factorial: factorial(x) (supported in Python 3.8+)\n- Sine: sin(x)\n- Cosine: cos(x)\n- Tangent: tan(x)\n- Square root: sqrt(x)\n- The natural logarithm: log(x)\nConstants:\n- The number π: pi\n- Number e: e"
-}
